@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# tributepage-stanleykubrick
-A tribute page in memory of one of the greatest directors in history of cinema, Stanley Kubrick.
-=======
 # Tribute Page - Stanley Kubrick
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/vvictin/tributepage-stanleykubrick)
@@ -21,4 +17,3 @@ Email me at [contato@vvictin.com](mailto:contato@vvictin.com).
 ## License
 
 This project is under **Public Domain**, anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
->>>>>>> e073f0f (first commit)
