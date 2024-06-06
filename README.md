@@ -12,7 +12,7 @@ This is a tribute page designed for the freeCodeCamp project in memory of Stanle
 
 ## Contact
 
-Email me at [contato@vvictin.com](mailto:contato@vvictin.com).
+Email me at xxx.
 
 ## License
 
